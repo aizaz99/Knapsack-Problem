@@ -13,7 +13,7 @@ def knapSack (w,wt,val,n):
 
   return K[n][w]
 
-#Code 
+# Test Code 
 
 val = [160,120,130]
 wt = [11,20,35]
