@@ -14,3 +14,9 @@ def knapSack (w,wt,val,n):
   return K[n][w]
 
 #Code 
+
+val = [160,120,130]
+wt = [11,20,35]
+w = 70
+n = len(val)
+print(knapSack(w,wt,val,n))
