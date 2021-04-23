@@ -1,0 +1,7 @@
+/ ** cap = Maximum capacity of knapsack
+weight - weight of items
+value = value of items
+**/
+
+public static int knapsack(int cap, int [] weight, int [] Value) {
+
